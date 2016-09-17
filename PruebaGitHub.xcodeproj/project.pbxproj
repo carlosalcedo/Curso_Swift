@@ -51,6 +51,7 @@
 		CA2E291C1D862E3400CEFFFA /* PruebaGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PruebaGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA2E29201D862E3400CEFFFA /* PruebaGitHubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PruebaGitHubUITests.m; sourceTree = "<group>"; };
 		CA2E29221D862E3400CEFFFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA4A7BE41D8CD17800BBE1F6 /* MyPlayground Sem 2.8 miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "MyPlayground Sem 2.8 miniReto.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		CA2E28FA1D862E3400CEFFFA /* PruebaGitHub */ = {
 			isa = PBXGroup;
 			children = (
+				CA4A7BE41D8CD17800BBE1F6 /* MyPlayground Sem 2.8 miniReto.playground */,
 				CA2E28FE1D862E3400CEFFFA /* AppDelegate.h */,
 				CA2E28FF1D862E3400CEFFFA /* AppDelegate.m */,
 				CA2E29011D862E3400CEFFFA /* ViewController.h */,
@@ -498,6 +500,7 @@
 				CA2E29271D862E3400CEFFFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA2E29281D862E3400CEFFFA /* Build configuration list for PBXNativeTarget "PruebaGitHubTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				CA2E292A1D862E3400CEFFFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA2E292B1D862E3400CEFFFA /* Build configuration list for PBXNativeTarget "PruebaGitHubUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				CA2E292D1D862E3400CEFFFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
