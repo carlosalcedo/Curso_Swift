@@ -52,6 +52,7 @@
 		CA2E29201D862E3400CEFFFA /* PruebaGitHubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PruebaGitHubUITests.m; sourceTree = "<group>"; };
 		CA2E29221D862E3400CEFFFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA4A7BE41D8CD17800BBE1F6 /* MyPlayground Sem 2.8 miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "MyPlayground Sem 2.8 miniReto.playground"; sourceTree = "<group>"; };
+		CA5C2ECF1DADACF400AF9C93 /* Mini-Reto-Sem4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Mini-Reto-Sem4.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 		CA2E28FA1D862E3400CEFFFA /* PruebaGitHub */ = {
 			isa = PBXGroup;
 			children = (
+				CA5C2ECF1DADACF400AF9C93 /* Mini-Reto-Sem4.playground */,
 				CA4A7BE41D8CD17800BBE1F6 /* MyPlayground Sem 2.8 miniReto.playground */,
 				CA2E28FE1D862E3400CEFFFA /* AppDelegate.h */,
 				CA2E28FF1D862E3400CEFFFA /* AppDelegate.m */,
